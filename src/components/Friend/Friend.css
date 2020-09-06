@@ -1,0 +1,7 @@
+.main-button{
+    background-color: lightblue;
+    width: 150px;
+    height: 30px;
+    border: 1px solid darkgray;
+    border-radius: 10px;
+}
